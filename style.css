@@ -61,7 +61,7 @@ section{
 }
 
 section > p{
-    font-size: 3.5vw;
+    font-size: 3vh;
     line-height: 2.5;
     font-family: var(--fonte3);
 }
